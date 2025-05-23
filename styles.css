@@ -1,0 +1,32 @@
+* {
+    margin: 0 auto;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    box-sizing: border-box;
+}
+
+.navbar {
+    border-bottom: 1px grey solid;
+    margin: 20px;
+    height: 60px;
+}
+
+.recipes-list-container {
+    padding: 15px;
+    margin: 0 auto;
+    max-width: 900px;
+    border-radius: 5px;
+    background-color: rgb(230, 228, 228);
+}
+
+.recipes-list-container h2 {
+    text-align: center;
+}
+
+.recipes-list {
+    list-style: none;
+}
+
+.recipes-list a {
+    color: black;
+    text-decoration: none;
+}
